@@ -1,6 +1,6 @@
 <?php 
 
-define('APP_NAME', 'Udemy App');
+define('APP_NAME', 'Udemy Clone');
 define('APP_DESC', 'Free and paid tutorials');
 
 
